@@ -2,7 +2,9 @@
 # Given a 32-bit signed integer, reverse digits of an integer.
 # Easy solution, given that to reverse a string you can use a stack and continuously push and pop the elements.
 
+
 # Author: Diego Goytia
+# Day number: 1
 
 class Solution:
     
